@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FirstProgram</string>
+    <string name="result">Kết quả</string>
+    <string name="plus">+</string>
+    <string name="minus">-</string>
+    <string name="mul">*</string>
+    <string name="div">/</string>
+    <string name="mod">%</string>
+</resources>
