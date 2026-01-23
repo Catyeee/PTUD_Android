@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Ứng dụng đa ngôn ngữ</string>
+    <string name="header_title">Multi Language App</string>
+    <string name="hello">Xin chào</string>
+    <string name="email">Email</string>
+    <string name="password">Mật khẩu</string>
+    <string name="login">ĐĂNG NHẬP</string>
+    <string name="no_account">Không có tài khoản. Vui lòng đăng ký</string>
+</resources>
