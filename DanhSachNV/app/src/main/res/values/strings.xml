@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Danh Sách Nhân Viên</string>
+    <string name="title_employee_list">Danh sách nhân viên</string>
+    <string name="title_detail">Thông tin chi tiết</string>
+    <string name="label_id">Mã nhân viên:</string>
+    <string name="label_name">Tên nhân viên:</string>
+    <string name="label_age">Tuổi:</string>
+    <string name="btn_delete">Xóa nhân viên</string>
+    <string name="btn_back">Trở về</string>
+</resources>

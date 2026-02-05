@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Nền base: solid xám nhạt (thay vì bg_rect) -->
+    <item>
+        <shape android:shape="rectangle">
+            <solid android:color="@color/gray" />
+        </shape>
+    </item>
+    <!-- Layer trên: trắng bo tròn, bottom 3dp để tạo hiệu ứng nổi nhẹ -->
+    <item android:bottom="3dp">
+        <shape android:shape="rectangle">
+            <corners android:radius="20dp" />
+            <solid android:color="#ffffff" />
+        </shape>
+    </item>
+</layer-list>
